@@ -1,0 +1,11 @@
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\bin\Debug\tpmod3_1302210009.exe.config
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\bin\Debug\tpmod3_1302210009.exe
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\bin\Debug\tpmod3_1302210009.pdb
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\obj\Debug\tpmod3_1302210009.csproj.AssemblyReference.cache
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\obj\Debug\tpmod3_1302210009.csproj.SuggestedBindingRedirects.cache
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\obj\Debug\tpmod3_1302210009.Properties.Resources.resources
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\obj\Debug\tpmod3_1302210009.csproj.GenerateResource.cache
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\obj\Debug\tpmod3_1302210009.csproj.CoreCompileInputs.cache
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\obj\Debug\tpmod3_1302210009.exe
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\obj\Debug\tpmod3_1302210009.pdb
+C:\Users\herui\OneDrive\Documents\Semester 4\Konstruksi Perangkat Lunak (Software Construction)\Praktikum\tpmod3_1302210009\tpmod3_1302210009\obj\Debug\tpmod3_1302210009.Form1.resources
